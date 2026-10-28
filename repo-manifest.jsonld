@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/databrickslabs/blueprint/commit/bb6f3c9f4c4f8bb6e17692ce541721fd8440cd0b",
       "git:hexsha": "bb6f3c9f4c4f8bb6e17692ce541721fd8440cd0b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T13:38:41.175145+00:00"
     },
     {
       "@id": "https://repolex.ai/r/databrickslabs/blueprint/commit/f58ab1c0301de54119174f904431d68813e65bf1",
